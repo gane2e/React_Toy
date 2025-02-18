@@ -1,6 +1,5 @@
 ## 01: 카운터앱
 📅 2025-02-14
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/fd5bc3c8-0150-40bd-859f-d524bf97631b" width="700px">
+  <img src="https://github.com/user-attachments/assets/aa1ebd99-99c1-4fc0-a67f-9bd65dc819d0" width="700px">
 </div>
-
